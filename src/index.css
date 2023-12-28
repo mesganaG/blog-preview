@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,600&family=Inter:wght@400;600;700&family=Poppins:wght@700&family=Roboto:wght@400;500;700&family=Sometype+Mono&display=swap');
+:root {
+    font-family: 'Figtree', sans-serif;
+    --color-primary: hsl(47, 88%, 63%);
+    --secondary-White: hsl(0, 0%, 100%);
+    --secondary-grey: hsl(0, 0%, 50%);
+    --secondary-Black: hsl(0, 0%, 7%);
+}
+
+body {
+    background-color: var(--color-primary);
+}
