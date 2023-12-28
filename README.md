@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [solution URL here](https://github.com/mesganaG/blog-preview.git)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://effective-halibut-v4rw7jp75q72w6wx-5173.app.github.dev/)
 
 ### Built with
 
